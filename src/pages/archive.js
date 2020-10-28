@@ -24,7 +24,6 @@ const ArchivePage = ({ data }) => {
         return techTags
     }
 
-
     return (
         <Layout>
             <SEO title="Archive" keywords={[`gatsby`, `javascript`, `react`, `web development`, `blog`, `graphql`]} />
@@ -93,7 +92,6 @@ export const pageQuery = graphql`
                  id
                  frontmatter {
                    title
-                   date(formatString: "MMMM DD, YYYY")
                    tags
                  }
                  fields {

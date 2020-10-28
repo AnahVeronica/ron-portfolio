@@ -110,7 +110,6 @@ export const listQuery = graphql`
                  id
                  frontmatter {
                    title
-                   date(formatString: "MMMM DD, YYYY")
                    tags
                  }
                  fields {

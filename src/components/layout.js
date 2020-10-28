@@ -25,9 +25,6 @@ const Layout = ({ children }) => {
             author
             contacts {
               linkedin
-              github
-              stackoverflow
-              freecodecamp
               twitter
             }
           }
@@ -49,14 +46,6 @@ const Layout = ({ children }) => {
             }}
           >
             <main className="p-4">{children}</main>
-            <footer className="text-center">
-              <hr/>
-              <p className="d-inline">© {new Date().getFullYear()} <a className="text-info" href="https://willjw3.github.io/">willjw3</a>, All Rights Reserved.</p>
-              <p className="mt-5 text-muted d-inline"><i> Built with
-                            {` `}
-                <a className="text-info" href="https://www.gatsbyjs.org">Gatsby</a></i>
-              </p>
-            </footer>
           </div>
         </>
       )}
