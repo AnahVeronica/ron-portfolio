@@ -9,8 +9,6 @@ date: '2020-01-06'
 ---
 
 
-### Types of Distance Metrics and Using User Defined Distance metrics in Scikit’s
-KNN Algorithm:
 
 ![](https://cdn-images-1.medium.com/max/960/1*_DOTmuIGzo7WWFEPCsncAg.jpeg)
 
