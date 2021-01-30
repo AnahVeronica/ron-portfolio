@@ -16,8 +16,9 @@
 
 
 .profile-img {
-     border-radius: 50%;
+     border-radius: 10%;
      box-shadow: 1px 1px 3px;
+     margin-top: 20px;
 }
 
 small, h3, p {
