@@ -1,4 +1,10 @@
-### **Ensemble Learning Methods in Machine Learning**
+---
+title: 'Ensemble Learning Methods in Machine Learning'
+tags: ["machine learning"]
+published: true
+date: '2021-01-30'
+---
+
 
 Ensemble learning is a compelling technique that helps machine learning systems
 improve their performance. The technique gained a lot of popularity in the
