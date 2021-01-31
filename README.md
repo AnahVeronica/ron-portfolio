@@ -1,6 +1,11 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ab9ff748-0d4f-468f-a2ad-bbe1d87e8fd1/deploy-status)](https://app.netlify.com/sites/priceless-nightingale-d4a3e/deploys)
+
+[![Website](https://img.shields.io/website?label=anahveronica.com&style=for-the-badge&url=http%3A%2F%2Fanahveronica.com)](http://anahveronica.com)
+
+
 ## setup
 
-    * npm install
+    * npm install 
     * gatsby develop
 
 ## Usage
